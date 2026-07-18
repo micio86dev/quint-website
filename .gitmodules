@@ -1,6 +1,6 @@
 [submodule "quint-website-frontend"]
 	path = quint-website-frontend
-	url = https://github.com/micio86dev/quint-website-frontend.git
+	url = git@github.com:micio86dev/quint-website-frontend.git
 [submodule "quint-website-backend"]
 	path = quint-website-backend
-	url = https://github.com/micio86dev/quint-website-backend.git
+	url = git@github.com:micio86dev/quint-website-backend.git
