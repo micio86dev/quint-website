@@ -1,0 +1,10 @@
+**/node_modules
+**/.astro
+**/dist
+**/coverage
+**/playwright-report
+**/test-results
+**/pb_data
+.DS_Store
+.atl/
+.codegraph/
